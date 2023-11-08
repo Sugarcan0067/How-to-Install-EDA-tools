@@ -13,7 +13,7 @@ Spectre 21.1
 
 **Sysnposys** :
 | Software | Verison |
-| --- | --- |
+| :---: | --- |
 | Hspice | 2021.09 |
 | Laker  | 2021.03 |
 | Custom_Waveview | 2021.09 |
